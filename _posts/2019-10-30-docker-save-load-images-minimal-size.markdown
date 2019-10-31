@@ -2,6 +2,7 @@
 layout: post
 title:  "Docker Save and Load Images with Minimal Size"
 date:   2019-10-30 22:37:41 +0300
+comments: true
 categories: docker
 ---
 
